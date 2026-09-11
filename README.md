@@ -21,16 +21,3 @@ Convert an `.mp4` (or other video formats) into an animated `.gif` with optional
 
 ### Python Packages
 Install required dependencies:
-
-```bash
-pip install --upgrade moviepy imageio imageio-ffmpeg numpy
-
-
-
-
-
-
-If you want, I can also generate:
-- `requirements.txt`
-- A `setup.bat` for Windows one-click install
-- A CLI version like: `python video_to_gif.py --in ... --out ... --start ...`
